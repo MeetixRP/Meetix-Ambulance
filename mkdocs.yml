@@ -1,1 +1,42 @@
-site_name: My Docs
+# Info
+site_name: Meetix informatie
+site_url: 'https://ambu.meetix.nl/'
+site_description: 'Meetix informatie'
+site_author: 'MeetixMedia'
+
+# Repo
+repo_url: 'https://github.com/MeetixRP/Meetix-Ambulance'
+repo_name: 'MeetixRP/Meetix-Ambulance'
+edit_uri: 'https://github.com/MeetixRP/Meetix-Ambulance/tree/main/docs'
+
+# Copyright
+copyright: Copyright &copy; 2019 - 2023 Meetix
+
+
+
+#Config
+site_name: Meetix informatie
+theme:
+  name: material
+
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Donkere modus
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: ichte modus
+#Navigeer
+nav:
+  - Welkom: index.md
+  - Server regels:
+    - Algemene regels: algemeneregels.md
+    - Offroad voertuigen: offroad.md
+  - Toetscombinaties: keybinds.md
+  - Community websites: communitysites.md
+# Extensions
+
+markdown_extensions:
+  - pymdownx.keys
