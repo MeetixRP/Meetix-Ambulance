@@ -1,7 +1,7 @@
 # Info
-site_name: Meetix informatie
+site_name: Meetix - Ambulance
 site_url: 'https://ambu.meetix.nl/'
-site_description: 'Meetix informatie'
+site_description: 'Meetix Ambulance'
 site_author: 'MeetixMedia'
 
 # Repo
@@ -15,7 +15,7 @@ copyright: Copyright &copy; 2019 - 2023 Meetix
 
 
 #Config
-site_name: Meetix informatie
+site_name: Meetix Ambulance
 theme:
   name: material
 
