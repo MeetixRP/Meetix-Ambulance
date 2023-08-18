@@ -31,11 +31,30 @@ theme:
 #Navigeer
 nav:
   - Welkom: index.md
-  - Server regels:
-    - Algemene regels: algemeneregels.md
-    - Offroad voertuigen: offroad.md
-  - Toetscombinaties: keybinds.md
-  - Community websites: communitysites.md
+  - Regels:
+    - Parkeerbeleid: parkeerbeleid.md
+  - Rooster: rooster.md
+  - Sollicitatie: sollicitatie.md
+  - Klachten: klachten.md
+  - Ziekenhuis: ziekenhuis.md
+  - Rangen informatie:
+    - Rangen: rangen.md
+    - Specialisaties en trainingen: specialisaties.md
+  - Uitrusting:
+    - Voertuigen: voertuigen.md
+    - Hulpmiddelen: hulpmiddelen.md
+    - Medicatie: medicatie.md
+  - Basis informatie (Ambu):
+    - Stappenplan: stappenplan.md
+    - Communicatie: communicatie.md
+    - Promoties: promoties.md
+    - Medisch menu: medischmenu.md
+  - Extra verdieping (Ambu):
+    - ABCDE Model: abcdemodel.md
+    - Specialisaties:
+      - S.O.R.T: sort.md
+      - MMT: mmt.md
+      - OVD-G: ovdg.md
 # Extensions
 
 markdown_extensions:
