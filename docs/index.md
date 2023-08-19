@@ -1,9 +1,8 @@
-# Ambulance Handboek
-## Meetix
+# Ambulance Handboek Meetix
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oYOoqdSe-w8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-# Welkom
+## Welkom
 
 Het Groningse ambulance team is een door de overheid gerunde gezondheidszorgdienst. Alle leden van de ambulance staan dagelijks klaar om professionele zorg in Groningen te bieden.
 
@@ -17,8 +16,8 @@ Als je wordt geaccepteerd, wordt van je verwacht dat je iedereen respecteert en 
 
 Het maakt niet uit of de patiënt de armste persoon is of de rijkste crimineel of zelfs hooggeplaatste politieofficier, we verwachten dat je hen op de best mogelijke manier helpt, en hen de beste herinnering aan jezelf en aan het ambulance team geeft. Iedereen die deel uitmaakt van het team staat in de frontlinie om te laten zien dat we evenveel om iedereen geven.
 
-# Huidige leiding team
+## Huidige leiding team
 
 --
 
-# huidige mangement team
+## huidige mangement team
